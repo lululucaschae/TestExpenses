@@ -11,7 +11,7 @@ import SwiftUI
 struct TestExpensesApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            PublishedObjectTest()
         }
     }
 }
